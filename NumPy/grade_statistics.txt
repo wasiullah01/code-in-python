@@ -1,0 +1,16 @@
+TEST SCORE STATISTICS REPORT
+=========================
+
+Total Students: 50
+Mean: 42.20
+Median: 36.00
+Std Dev: 31.28
+Varience: 978.60
+Percentile 25th: 14.25
+Percentile 50th: 36.0
+Percentile 75th: 67.25
+
+Grade A (90-100): 6
+Grade B (80-89): 4
+Grade C (70-79): 1
+Grade D (Below 70): 39
