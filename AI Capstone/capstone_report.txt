@@ -1,0 +1,48 @@
+
+======================================================================
+HOUSE PRICE PREDICTION - CAPSTONE PROJECT REPORT
+======================================================================
+
+PROJECT OVERVIEW
+----------------------------------------------------------------------
+Objective: Predict house prices using Machine Learning
+Dataset: Pakistan House Price Dataset
+Total Records: 545
+
+PRICE RANGE
+----------------------------------------------------------------------
+Minimum: PKR 1,750,000
+Maximum: PKR 13,300,000
+Average: PKR 4,766,729
+
+MODEL COMPARISON
+----------------------------------------------------------------------
+1. LINEAR REGRESSION
+   R^2 Score: 0.6529
+   Mean Absolute Error: PKR 970,043.40
+   Average prediction error: ~970K PKR
+
+2. DECISION TREE REGRESSOR
+   R^2 Score: Not available - run the model evaluation cell first
+   Mean Absolute Error: PKR Not available - run the model evaluation cell first
+
+3. RANDOM FOREST REGRESSOR
+   R^2 Score: Not available - run the model evaluation cell first
+   Mean Absolute Error: PKR Not available - run the model evaluation cell first
+
+BEST MODEL SELECTED
+----------------------------------------------------------------------
+Linear Regression (selected model)
+  - R^2 Score: 0.6529
+  - Mean Absolute Error: PKR 970,043.40
+
+PROJECT COMPLETION
+----------------------------------------------------------------------
+- Data exploration and cleaning
+- Feature engineering and encoding
+- Data splitting (80/20)
+- Model training and evaluation
+- Prediction capability
+
+Date Generated: 2026-09-27 11:28:04
+======================================================================
